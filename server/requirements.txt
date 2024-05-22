@@ -3,7 +3,6 @@ aiohttp~=3.9.5
 aiohttp-jinja2~=1.6
 aiosqlite~=0.20.0
 base58~=2.1.1
-cchardet~=2.1.0
 indy_vdr~=0.4.2
 pynacl~=1.5.0
 pyyaml~=6.0.1
